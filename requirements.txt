@@ -10,7 +10,7 @@ Flask-Uploads==0.2.1
 Flask-WTF==0.14.3
 gunicorn==19.9.0
 matplotlib==3.2.1
-numpy==1.18.2
+numpy==1.22.0
 pandas==0.25.0
 requests==2.23.0
 scikit-image==0.17.2
